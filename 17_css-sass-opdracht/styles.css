@@ -1,0 +1,28 @@
+.header {
+  background: #e0b986;
+  padding: 20px;
+}
+
+.hero {
+  background: #e0b986;
+  padding: 20px;
+}
+
+.hero__text {
+  color: #2173df;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  height: 20vh;
+}
+
+.Featured__text {
+  color: #2173df;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  height: 20vh;
+}
+
+.about__text {
+  color: #2173df;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  height: 20vh;
+}
+/*# sourceMappingURL=styles.css.map */

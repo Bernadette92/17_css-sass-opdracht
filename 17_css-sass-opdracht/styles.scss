@@ -1,0 +1,28 @@
+
+@import "_constants";
+
+.header{
+    background: $primarycol;
+    padding: $primarypad;
+}
+
+.hero{
+    background: $primarycol;
+    padding: $primarypad;
+
+    &__text{
+         @include textstyle();
+    }
+}
+
+.Featured {
+&__text{
+        @include textstyle();
+    }
+}
+
+.about {
+    &__text{
+        @include textstyle();
+    }
+}

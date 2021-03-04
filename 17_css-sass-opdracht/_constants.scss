@@ -1,0 +1,8 @@
+$primarycol: rgb(224, 185, 134);
+$primarypad: 20px;
+
+@mixin textstyle {
+color: rgb(33, 115, 223);
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+height: 20vh ;
+}
